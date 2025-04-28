@@ -1,4 +1,4 @@
-Reverse engineer and malware analyst focused on Android and Windows internals.  
+Reverse engineering, C/C++ Developer focused on Android and Windows internals.  
 This repository hosts technical articles, notes, and research findings.
 
 ## 📄 Articles
